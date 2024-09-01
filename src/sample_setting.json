@@ -1,0 +1,12 @@
+{
+    "openai_api_key": "sk-proj-***",
+    "openai_api_model_name": "gpt-4o",
+    "original_data_dir_path": "/path/to/clot/data",
+    "ogiri_save_data_dir_path": "/path/to/bokete-train/save_dir",
+    "ogiri_train_samples": {
+        "image_to_text": 500,
+        "text_to_text": 100,
+        "image_text_to_text": 100
+    },
+    "keitai_data_dir_path": "/path/to/bokete-keitai/save_dir"
+}
